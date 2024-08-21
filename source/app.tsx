@@ -70,7 +70,7 @@ function ContentPaneOne() {
 			<Gradient name={'retro'}>
 				<BigText text={'Pane 1'} />
 			</Gradient>
-			<Text>Im' the content area one</Text>
+			<Text>I'm the content area one</Text>
 		</Box>
 	);
 }
@@ -88,7 +88,7 @@ function ContentPaneTwo() {
 			<Gradient name={'rainbow'}>
 				<BigText text={'Pane 2'} />
 			</Gradient>
-			<Text>Im' the content area two</Text>
+			<Text>I'm the content area two</Text>
 		</Box>
 	);
 }
